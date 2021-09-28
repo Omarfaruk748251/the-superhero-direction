@@ -1,0 +1,12 @@
+.header-img {
+  height: 100px;
+  padding: 5px;
+}
+.header-container {
+  padding: 10px;
+  /* background-image: linear-gradient(rgb(2, 8, 90), rgba(0, 1, 48, 0.75)); */
+}
+.header-content {
+  background-color: rgba(115, 104, 124, 0.459);
+  padding: 10px;
+}
